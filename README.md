@@ -34,7 +34,7 @@ No se conecta a bancos ni mueve dinero real.
 
 - Anteproyecto (PRD): [PRD_Anteproyecto_App_Escritorio.docx](https://github.com/user-attachments/files/35247928/PRD_Anteproyecto_App_Escritorio.docx)
 
-- Diseño de la interfaz: https://www.figma.com/design/Ba1UOA6NoJpeJwMKUekgg1/Sin-t%C3%ADtulo?node-id=0-1&t=Im8L4km4OQ60tVI9-1
+- Diseño de la interfaz: [Enlace_Figma_Diseño_Interfaz](https://www.figma.com/design/Ba1UOA6NoJpeJwMKUekgg1/Sin-t%C3%ADtulo?node-id=0-1&t=Im8L4km4OQ60tVI9-1)
 
 ## Cómo ejecutarlo
 
